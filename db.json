@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Guadalupe sarai",
+      "empresa": "ksxjhndacs",
+      "telefono": "4428231788",
+      "email": "j.a-7227@hotmail.com",
+      "notas": "Azazaa",
+      "id": 4
+    },
+    {
+      "nombre": "samuel",
+      "empresa": "e546",
+      "telefono": "4428231788",
+      "email": "j.a-7227@hotmail.com",
+      "notas": "hola",
+      "id": 6
+    },
+    {
+      "nombre": "Jesus Sanchez",
+      "empresa": "ksxjhndacs",
+      "telefono": "4428231788",
+      "email": "j.a-7227@hotmail.com",
+      "notas": "ggg",
+      "id": 7
+    }
+  ]
+}
